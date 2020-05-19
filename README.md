@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Project-1
 Assignment 
